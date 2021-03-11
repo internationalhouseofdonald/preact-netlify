@@ -38,7 +38,7 @@
     "markdown-to-jsx": "^6.10.3",
     "preact": "^10.0.0",
     "preact-cli-plugin-netlify": "^1.5.0",
-    "preact-render-to-string": "^5.0.6",
+    "preact-render-to-string": "^5.1.12",
     "preact-router": "^3.0.1"
   },
   "jest": {
