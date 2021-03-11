@@ -8822,10 +8822,10 @@ preact-render-to-string@^3.6.3:
   dependencies:
     pretty-format "^3.5.1"
 
-preact-render-to-string@^5.0.6:
-  version "5.0.6"
-  resolved "https://registry.yarnpkg.com/preact-render-to-string/-/preact-render-to-string-5.0.6.tgz#3e89078f78e88157a044f91914b348894cd18d03"
-  integrity sha512-VOsbY/YNPJVIxEdzkUJNwhZNEOE5/w4lbEAsBvhsImbpeDsDhCtUvzpZav/j8tHF8HcG6lNWljmkmXfy+KEnsQ==
+preact-render-to-string@^5.1.12:
+  version "5.1.15"
+  resolved "https://registry.yarnpkg.com/preact-render-to-string/-/preact-render-to-string-5.1.15.tgz#9d1dadcd5d7b403015b11a5a1fdb4885c3649a30"
+  integrity sha512-xjtHq/RQGUISoptT24qFiEUp+lJJ+QlxeO69i9nJShPWQm8RY5syqi8sycY68MhfV8oGBx/rRq8LQ8rPp2ESZA==
   dependencies:
     pretty-format "^3.8.0"
 
